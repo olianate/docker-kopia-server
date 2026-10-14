@@ -1,0 +1,1 @@
+FROM kopia/kopia:latest
